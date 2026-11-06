@@ -10,7 +10,7 @@ Construyo soluciones de software limpias, escalables y útiles, con especial ate
 - 🚀 Co-fundador de InnovaByte, una startup de desarrollo de software y soporte IT
 - 🏗️ Experiencia en desarrollo de sistemas web full-stack para negocios locales
 
-## 🧩 Stack Tecnológico
+##  Stack Tecnológico
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +30,6 @@ Construyo soluciones de software limpias, escalables y útiles, con especial ate
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +37,7 @@ Construyo soluciones de software limpias, escalables y útiles, con especial ate
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🧠 Filosofía de Trabajo
+##  Filosofía de Trabajo
 
 Creo que el software debe ser:
 - Claro y comprensible
@@ -46,7 +45,7 @@ Creo que el software debe ser:
 - Fácil de mantener a lo largo del tiempo
 - Construido con responsabilidades bien definidas
 
-## 🚀 Proyectos y Emprendimiento
+##  Proyectos y Emprendimiento
 
 ### InnovaByte
 Soy co-fundador de InnovaByte, un emprendimiento a modo de startup enfocada en desarrollo de software y soporte IT, orientada a ayudar a empresas y negocios a digitalizar procesos, mejorar su presencia tecnológica y crear soluciones a medida.
@@ -60,18 +59,15 @@ He desarrollado plataformas web para negocios locales, incluyendo:
 
 Estos proyectos representan mi enfoque práctico: resolver problemas reales con software, desde el análisis hasta la implementación y despliegue.
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
+
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=AndyGar04&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyGar04&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyGar04&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyGar04&theme=midnight_purple" alt="GitHub Profile Summary" width="700" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyGar04&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📬 Contacto
+##  Contacto
 
 - ✉️ Email: andygarciaprost2004@gmail.com
 - 🌐 GitHub: https://github.com/AndyGar04
@@ -79,4 +75,3 @@ Estos proyectos representan mi enfoque práctico: resolver problemas reales con 
 <p align="center">
   <strong>Siempre abierto a colaborar, emprender y enfrentar nuevos desafíos técnicos.</strong>
 </p>
-```
